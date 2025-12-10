@@ -4,7 +4,7 @@ Strona Główna
 Witamy w dokumentacji projektu!
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Spis treści
 
    skladnia.rst
