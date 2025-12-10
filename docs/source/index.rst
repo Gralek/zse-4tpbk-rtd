@@ -7,5 +7,5 @@ Witamy w dokumentacji projektu!
    :maxdepth: 1
    :caption: Spis treści
 
-   skladnia.rst
-   o_autorze.rst
+   skladnia
+   autor
